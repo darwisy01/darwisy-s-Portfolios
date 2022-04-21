@@ -1,6 +1,6 @@
 ### Hi there 👋
 I'm currently studying on Multimedia University and Majoring Data Science
-\n On this repo i will put all of my Data analysis Portfolios.
+#### On this repo i will put all of my Data analysis Portfolios.
 
 
 <!--
